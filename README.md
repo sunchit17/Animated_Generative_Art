@@ -7,3 +7,7 @@
 - Color Scheme is changed every time we refresh the app
 
 #### Animated using Future.Delayed function in initState()
+
+![](/Screenshots/SS1.gif)
+
+![](/Screenshots/SS2.gif)
