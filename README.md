@@ -1,16 +1,9 @@
-# animated_generative_art
+# Animated Generative Art
 
-A new Flutter project.
+### Generate Flutter Art through math functions and CustomPainter
 
-## Getting Started
+- Used CustomPainter and Math Functions like cos,tan,sin,atan,etc. to generate random patterns
 
-This project is a starting point for a Flutter application.
+- Color Scheme is changed every time we refresh the app
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Animated using Future.Delayed function in initState()
